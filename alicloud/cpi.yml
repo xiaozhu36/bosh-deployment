@@ -20,7 +20,7 @@
       category: cloud_efficiency
       size: "51_200"
     instance_name: bosh-director
-    instance_type: ecs.mn4.small
+    instance_type: ecs.n4.small
     key_pair_name: ((key_pair_name))
     system_disk:
       category: cloud_efficiency
